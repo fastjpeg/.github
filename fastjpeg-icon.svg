@@ -1,15 +1,20 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1_38)">
-<rect width="64" height="256" fill="#00FF3F" style="fill:#00FF3F;fill:color(display-p3 0.0000 1.0000 0.2471);fill-opacity:1;"/>
-<rect x="64" width="64" height="256" fill="#35B5FF" style="fill:#35B5FF;fill:color(display-p3 0.2078 0.7098 1.0000);fill-opacity:1;"/>
-<rect x="192" y="128" width="64" height="128" fill="#FFFB38" style="fill:#FFFB38;fill:color(display-p3 1.0000 0.9843 0.2196);fill-opacity:1;"/>
-<path d="M128 64H192V256H128V64Z" fill="#FF479C" style="fill:#FF479C;fill:color(display-p3 1.0000 0.2784 0.6118);fill-opacity:1;"/>
-<path d="M128 0L256 128H192L128 64V0Z" fill="#1E293B" style="fill:#1E293B;fill:color(display-p3 0.1176 0.1608 0.2314);fill-opacity:1;"/>
-<path d="M198.059 128H152C138.745 128 128 117.255 128 104V57.9411C128 36.5594 153.851 25.8514 168.971 40.9705L215.029 87.0294C230.149 102.149 219.441 128 198.059 128Z" fill="#1E293B" style="fill:#1E293B;fill:color(display-p3 0.1176 0.1608 0.2314);fill-opacity:1;"/>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_217_260)">
+<g clip-path="url(#clip1_217_260)">
+<rect width="12" height="48" fill="#00FF3F" style="fill:#00FF3F;fill:color(display-p3 0.0000 1.0000 0.2471);fill-opacity:1;"/>
+<rect x="12" width="12" height="48" fill="#35B5FF" style="fill:#35B5FF;fill:color(display-p3 0.2078 0.7098 1.0000);fill-opacity:1;"/>
+<rect x="36" y="24" width="12" height="24" fill="#FFFB38" style="fill:#FFFB38;fill:color(display-p3 1.0000 0.9843 0.2196);fill-opacity:1;"/>
+<path d="M24 12H36V48H24V12Z" fill="#FF479C" style="fill:#FF479C;fill:color(display-p3 1.0000 0.2784 0.6118);fill-opacity:1;"/>
+<path d="M24 0L48 24H36L24 12V0Z" fill="#1E293B" style="fill:#1E293B;fill:color(display-p3 0.1176 0.1608 0.2314);fill-opacity:1;"/>
+<path d="M37.136 24H28.5C26.0147 24 24 21.9853 24 19.5V10.864C24 6.85489 28.8471 4.84713 31.682 7.68197L40.318 16.318C43.1529 19.1529 41.1451 24 37.136 24Z" fill="#1E293B" style="fill:#1E293B;fill:color(display-p3 0.1176 0.1608 0.2314);fill-opacity:1;"/>
+</g>
 </g>
 <defs>
-<clipPath id="clip0_1_38">
-<rect width="256" height="256" fill="white" style="fill:white;fill-opacity:1;"/>
+<clipPath id="clip0_217_260">
+<rect width="48" height="48" fill="white" style="fill:white;fill-opacity:1;"/>
+</clipPath>
+<clipPath id="clip1_217_260">
+<rect width="48" height="48" fill="white" style="fill:white;fill-opacity:1;"/>
 </clipPath>
 </defs>
 </svg>
